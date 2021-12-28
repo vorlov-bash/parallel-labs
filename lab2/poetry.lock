@@ -1,0 +1,18 @@
+[[package]]
+name = "pykka"
+version = "3.0.2"
+description = "Pykka is a Python implementation of the actor model"
+category = "main"
+optional = false
+python-versions = ">=3.6.2,<4.0.0"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "28dda6ca11efad6bb653e05cb97f9f3f335f801ef8b769256e270abc117b4e17"
+
+[metadata.files]
+pykka = [
+    {file = "pykka-3.0.2-py3-none-any.whl", hash = "sha256:6a247b285dcc9fb99a0a270463a617102d29a182b67f0121acb811252d231633"},
+    {file = "pykka-3.0.2.tar.gz", hash = "sha256:15da050b4f37babc0782803ef8922a0070d970eb4da2a5b88b098795aa8a3263"},
+]
